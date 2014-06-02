@@ -11,6 +11,13 @@ body {
 	background-color: #3299bb;
 }
 
+#Donate-button {
+	text-align: center;
+}
+
+.panel {
+	margin: auto;
+}
 
 .descImage {
 	clear: both;
